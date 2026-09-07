@@ -391,16 +391,16 @@ If you find CapacitorIA Studio useful, please consider giving it a ⭐ on GitHub
 
 <!-- Add screenshots here -->
 ### Generate Tab
-![Generate Tab](screenshots/generate.png)
+![Generate Tab](screenshots/1.jpg)
 
 ### Project Tab
-![Project Tab](screenshots/project.png)
+![Project Tab](screenshots/2.jpg)
 
 ### Visual Editor
-![Visual Editor](screenshots/visual.png)
+![Visual Editor](screenshots/4.jpg)
 
-### Build Process
-![Build Process](screenshots/build.png)
+### Config
+![Build Process](screenshots/5.jpg)
 
 ---
 
